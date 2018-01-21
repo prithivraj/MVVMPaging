@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVMPaging</string>
+    <string name="clear_local_db">Clear Local Database</string>
+    <string name="fetch_from_server">Fetch from server</string>
+    <string name="avatar">Avatar</string>
+    <string name="id">ID</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>
